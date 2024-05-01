@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Rust, Electron.**
 
-- 👯 I’m looking to collaborate on [Interesting Projects just reach out here](https://ahmedmannai.me/hireme)
+- 👯 I’m looking to collaborate on [Interesting Projects just reach out here](https://ahmedmannai.me/contact)
 
 - 👨‍💻 Some of the non-commercial and open source projects I have created [https://www.ahmedmannai.me/projects](https://www.ahmedmannai.me/projects)
 
