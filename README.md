@@ -6,18 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmannai10" alt="ahmedmannai10" /></a> </p>
 
-- 🔭 I’m currently working on [E-learning Platform ETUD](https://github.com/AhmedMannai10/ETUD-ReactJS)
-
-- 🌱 I’m currently learning **Rust, Electron.**
-
-- 👯 I’m looking to collaborate on [Interesting Projects just reach out here](https://ahmedmannai.me/contact)
-
-- 👨‍💻 Some of the non-commercial and open source projects I have created [https://www.ahmedmannai.me/projects](https://www.ahmedmannai.me/projects)
-
-- 📝 I regularly write articles on [https://www.ahmedmannai.me/blog](https://www.ahmedmannai.me/blog)
-
-- 💬 Ask me about **Java, C, React, Javascript.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmed_mannai_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_mannai_10" height="30" width="40" /></a>
