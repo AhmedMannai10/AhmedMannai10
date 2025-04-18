@@ -40,7 +40,7 @@ A Java‑based controller utilizing genetic algorithms to optimize robotic movem
 ---
 
 ## 🎯 Next Project
-I’m launching a football‑player matchmaking app to connect enthusiasts for pick‑up games and local sports.  
+I’m launching a sport‑player matchmaking app to connect enthusiasts for pick‑up games and local sports.  
 Stay tuned for early access sign‑up.
 
 ---
