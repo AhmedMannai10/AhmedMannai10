@@ -27,9 +27,8 @@ I’m a **Software Engineer** specializing in Performance Engineering and buildi
 ---
 
 ## 🚀 Signature Project
-### [Robotic‑Controller‑With‑Genetic‑algorithm](https://github.com/AhmedMannai10/Robotic-Controller-With-Genetic-algorithm)
-A Java‑based controller utilizing genetic algorithms to optimize robotic movement paths in real time on embedded hardware.
-
+### [Jedid.AI](https://jedid.ai)
+Building the Entire Mobile App for Jedid using Flutter
 ---
 
 ## 📊 GitHub Stats & Badges
